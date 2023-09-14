@@ -93,5 +93,4 @@ List<String> CategoriesList = [
   "https://www.pngkey.com/png/full/20-201517_image-freeuse-taco-vegetable-design-food-vector-free.png",
   "https://www.myindiamyglory.com/wp-content/uploads/2016/09/food-and-beverages.png",
   "https://www.seekpng.com/png/full/316-3164991_junk-food-clipart-burger-fry-junk-food-vector.png",
-  "https://clipart-library.com/images_k/healthy-food-transparent/healthy-food-transparent-3.png"
 ];
